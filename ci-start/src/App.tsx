@@ -53,7 +53,7 @@ const App: React.FC = () => {
             className="form-field"
             required>
           </textarea>
-          <input type="submit" value="Send Message" className="btn"></input>
+          <input type="submit" value="Send!" className="btn"></input>
         </form>
       </section>
     </div>
